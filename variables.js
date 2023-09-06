@@ -1,5 +1,6 @@
 
-let numero = 10;
+var numero = 10;
 console.log(numero)
 
-let numero = "Diez";
+var numero = "Diez";
+console.log(numero)

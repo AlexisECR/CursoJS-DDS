@@ -5,6 +5,8 @@ dos();
 tres();
 console.log(dato);
 
+let esteEsUnBuenNombreDeVariable = 1000;
+
 function uno() {
     dato = 1000;
     var otrodato = 5000;
