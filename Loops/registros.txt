@@ -1,0 +1,4 @@
+1, Alexis Eduardo Capistran Romero, Ensenada, QA Tester
+2, Daniana Solis, Tijuana, Docente Educativo
+3, Erwuy Capistran, CDMX, SysAdmin
+4, Alberto Marin, CDMX, Developer

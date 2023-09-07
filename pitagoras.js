@@ -18,20 +18,12 @@ else{
 
 /*
 if (isNaN(n1)||isNaN(n2)||isNaN(n3)) 
-    {
-        console.log("Dato no permitidos");
-    }
+    { console.log("Dato no permitidos"); }
 else if (n1 == n2 && n2 == n3) 
-    {
-        console.log("Es un triangulo equilatero");
-    }
+    { console.log("Es un triangulo equilatero"); }
 
 else if (n1 == n2 && n2 != n3 || n1 == n3 &&  n1 != n2 || n2 == n3 && n2 != n1)
-    {
-        console.log("Es un triangulo isosceles");
-    }
+    { console.log("Es un triangulo isosceles"); }
 
-else {
-    console.log("Es un triangulo escaleno");
-}
+else {console.log("Es un triangulo escaleno");}
 */
