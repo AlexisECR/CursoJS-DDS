@@ -1,0 +1,19 @@
+const prompt = require('prompt-sync')();
+
+class Triangulo {
+    constructor(base, altura) {
+        this.base = base;
+        this.altura = altura;
+    }
+    calcularArea() {
+        return (this.base * this.altura) / 2;
+    }
+
+
+};
+
+const b = prompt("Dame base: ");
+const h = prompt("Dame altura: ");
+
+const area = new Triangulo(b, h);
+console.log(`El área del triángulo es: ${area.calcularArea()}`);
